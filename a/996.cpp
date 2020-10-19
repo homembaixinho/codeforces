@@ -1,5 +1,4 @@
-// Hit the Lottery
-// 996/A
+// 996A - Hit the Lottery
 
 #include <iostream>
 using namespace std;
